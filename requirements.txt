@@ -14,7 +14,7 @@ protobuf==3.20.1
 tqdm==4.41.0
 
 # Logging -------------------------------------
-tensorboard==2.4.1
+tensorboard==2.17.1
 # wandb
 
 # Plotting ------------------------------------
